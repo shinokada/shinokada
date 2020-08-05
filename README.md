@@ -17,8 +17,8 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/shinokada/anuraghazra/master/assets/jupyter-notebook.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/shinokada/anuraghazra/master/assets/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/shinokada/anuraghazra/master/assets/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/shinokada/anuraghazra/master/assets/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/shinokada/anuraghazra/master/assets/vim.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
