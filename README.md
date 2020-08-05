@@ -11,7 +11,7 @@
 <br />
 
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: 
+- 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
@@ -23,5 +23,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
