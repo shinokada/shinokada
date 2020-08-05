@@ -24,5 +24,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
