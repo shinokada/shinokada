@@ -19,6 +19,10 @@
 
 ## My Repos
 
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=vennfig)](https://github.com/shinokada/vennfig)
+
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=statsfig)](https://github.com/shinokada/statsfig)
+
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats)](https://github.com/shinokada/covid-19-stats)
 
 
