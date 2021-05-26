@@ -10,7 +10,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Rust
+- 🌱 My <a href="https://blog.codewithshin.com/">blog</a> 
 - 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> 
 
 
