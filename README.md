@@ -1,4 +1,12 @@
-### Hi there 👋, I'm Shin!
+<p align="center">
+  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />  
+  <h2 align="center">Shinichi Okada</h2>
+</p>
+
+## Hi there 👋, I'm Shin!
+
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+
 
 -  My <a href="https://blog.codewithshin.com/">blog <img alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/></a>
 - 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada <img alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
@@ -8,8 +16,6 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinokada&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
