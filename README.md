@@ -3,9 +3,7 @@
   <h2 align="center">Hi there 👋, I'm Shin!</h2>
 </p>
 
-<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
-
-<a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
 
 
@@ -16,7 +14,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=dark)](https://git.io/streak-stats)
 
 ## My Repos
 
