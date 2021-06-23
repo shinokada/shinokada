@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Shin!
 
-- 🌱 My <a href="https://blog.codewithshin.com/">blog</a> <a href="https://medium.com/@shinichiokada">
-  <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
-</a>
-- 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> <a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+- 🌱 My <a href="https://blog.codewithshin.com/">blog <img alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/></a>
+- 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada <img alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinokada)](https://github.com/ryo-ma/github-profile-trophy)
+<br /><br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shinokada&row=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
