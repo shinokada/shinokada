@@ -4,16 +4,17 @@
 - 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada <img alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
 </a>
 
-<br />
 
-<p align="center">
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinokada&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
-</p>
+
 
 ## My Repos
 
