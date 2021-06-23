@@ -10,11 +10,10 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinokada)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinokada&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
