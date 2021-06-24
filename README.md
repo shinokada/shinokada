@@ -2,6 +2,7 @@
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />  
   <h2 align="center">Hi there 👋, I'm Shin!</h2>
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&height=150&lines=Programmer%2C+writer%2C+husband%2C+;father%2C+Japanese.)](https://git.io/typing-svg)
 
 <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
