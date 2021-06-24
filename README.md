@@ -22,11 +22,11 @@
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=vennfig&show_owner=true)](https://github.com/shinokada/vennfig)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=shinokada&show_owner=true)](https://github.com/shinokada/shinokada)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats)
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=backpack_install&show_owner=true)](https://github.com/shinokada/backpack_install)
 
 
 
