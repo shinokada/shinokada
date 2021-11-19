@@ -20,9 +20,9 @@
 
 ## Medium Articles
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/1" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article"> 
 
 ## Repos
 
