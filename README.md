@@ -23,7 +23,7 @@
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=shinokada&show_owner=true)](https://github.com/shinokada/shinokada)
+[FastAPI Web Starter](https://github.com/shinokada/fastapi-web-starter)
 
 [![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
