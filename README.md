@@ -18,16 +18,19 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
 
-<h3 align="left">Languages and Tools:</h3>
+## Medium Articles
 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1"> 
 
-## My Repos
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichi/2" alt="Recent Article 2"> 
 
-[FastAPI Web Starter](https://github.com/shinokada/fastapi-web-starter)
+## Repos
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
+[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=backpack_install&show_owner=true)](https://github.com/shinokada/backpack_install)
+[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
+
+[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
 
 
 
